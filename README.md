@@ -128,7 +128,7 @@ This project was completed as part of the Future Interns Data Science & Analytic
 🔗 Connect With Me
 
 GitHub:
-Barnadeep-1611 GitHub Profile
+https://github.com/Barnadeep-1611
 
 LinkedIn:
-[(Add your LinkedIn profile URL here)](https://www.linkedin.com/in/barnadeep-basu-006288309/)
+(https://www.linkedin.com/in/barnadeep-basu-006288309/)
